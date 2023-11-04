@@ -3,4 +3,6 @@ A Tinkerhub course on Git and Github including Github Desktop and version contro
 
 This is a new line to be pushed to the repository.
 
-added a new line
+Added a new line using Github Desktop.
+
+Added a new line using Codespaces.
